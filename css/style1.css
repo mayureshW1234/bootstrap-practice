@@ -1,0 +1,144 @@
+body{
+	margin: 0;
+	padding: 0;
+	/* font-family: Arial; */
+}
+h2{
+	text-align: center;
+}
+.box{
+	padding: 60px;
+}
+.card{
+	width: 272px;
+	height: 322px;
+	padding: 0;	
+	margin: 0 30px 30px 0;
+	text-align: center;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	background-color: #ffffff;
+	font-size: 17px;
+}
+.img1{
+	width: 153px;
+	height: 141px;
+	float: left;
+	padding:0 30px;
+}
+.part1 .inner-section1{
+	text-align: left;
+	width: 100%;
+	margin: 10px 0 40px 0;
+}
+.part1 .inner-section1 .heading{
+	margin: 0;
+	padding: 10px 0 20px;
+	font-weight: bold;
+}
+.part1 .inner-section1 ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	line-height: 1.6;
+}
+.part1 .inner-section1 ul i{
+	color: #ee3e41;
+	padding:0 10px 0 0; 
+}
+.part2 .minibox{
+	float: left;
+	background-color: #f4f4f4;
+	width: 250px;
+	height: 139px;
+	border-radius:25px; 
+	box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+	text-align: center;
+}
+.part2 .minibox .minibox-1{
+	color: #087c7c;
+	font-size: 17px;
+	font-weight: bold;
+	line-height: 1.4;
+	margin: 20px 0 20px 0;
+}
+.minibox button{
+	border: none;
+	background-color: #ee3e41;
+	padding: 10px;
+	width: 223px;
+	color: #ffffff;
+	border-radius:5px;
+	font-weight: bold;
+	font-size: 15px;
+}
+.minibox button i{
+	color: #ffffff;
+	padding-right:10px;
+}
+.middle-part{
+	padding:10px 0 0 50px;
+}
+.middle-section{
+	font-size: 14px;
+	text-align: left;
+	padding: 0 60px;
+}
+.middle-section p{
+	font-weight: bold;
+	font-size: 16px;
+	padding-bottom: 20px;
+	margin: 0;
+}
+.middle-section ul{
+	list-style: none;
+	margin: 0;
+	font-size: 14px;
+	line-height: 1.5;
+	padding: 0;
+}
+.middle-section ul i{
+	color: #ee3e41;
+	padding:0 16px 0 0; 
+}
+.box2{
+	width: 358px;
+	height: 244px;
+	float: left;
+	margin: 0 20px 0 0;
+	box-sizing: border-box;
+}
+.box2 .card2 .card2-1{
+	background-color: #f6f7f9;
+	color: #a7a8aa;
+	border-radius:5px; 
+	padding:20px;
+	font-size: 14px;
+	box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.box2 .card2 p{
+	margin: 0;
+}
+.box2 .card2 .card2-2{
+	text-align: left;
+	padding: 30px 40px; 
+	font-size: 14px;
+}
+.box2 .card2 .card2-2 img{
+	float: left;
+	margin: 0 20px 0 0;
+}
+.box2 .card2 .card2-2 .card2-3{
+	padding: 10px 0 0 0;	
+}
+.box2 .card2 .card2-2 .card2-3 i{
+	color: #f8662a;
+	padding: 0 6px 0 0;
+}
+.box2 .card2 .card2-2 .card2-3 p{
+	line-height: 1.5;
+	color: #b0b0b0;
+}
+.box2 .card2 .card2-2 .card2-3 .orange{
+	color: #f8662a;
+}
